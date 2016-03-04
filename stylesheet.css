@@ -1,0 +1,23 @@
+body {
+	background-color: #333333;
+}
+
+img {
+	width: 20em;
+	height: 20em;
+	border-radius: 100%;
+	float: left;
+	padding: 2em;
+}
+
+h1 {
+	font-family: 'Special Elite';
+	font-size: 2em;
+	color: #ffffff;
+	padding: 2em 2em 0em 2em;
+}
+
+p {
+	font-family: 'Raleway';
+	color: #999999;
+}
